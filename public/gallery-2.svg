@@ -1,0 +1,7 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#2a2a2a"/>
+  <polygon points="150,100 250,100 280,200 220,300 120,300 90,200" fill="#ff6b35" opacity="0.6"/>
+  <rect x="180" y="150" width="40" height="120" fill="white" opacity="0.8"/>
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">KNEE STRIKE</text>
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ff6b35">Gallery Image 2</text>
+</svg>

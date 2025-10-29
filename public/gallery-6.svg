@@ -1,0 +1,11 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#1a1a1a"/>
+  <ellipse cx="100" cy="140" rx="30" ry="50" fill="#d4a574"/>
+  <ellipse cx="200" cy="140" rx="30" ry="50" fill="#d4a574"/>
+  <ellipse cx="300" cy="140" rx="30" ry="50" fill="#d4a574"/>
+  <rect x="70" y="180" width="60" height="80" fill="#ff6b35" opacity="0.7"/>
+  <rect x="170" y="180" width="60" height="80" fill="#ff6b35" opacity="0.7"/>
+  <rect x="270" y="180" width="60" height="80" fill="#ff6b35" opacity="0.7"/>
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">GROUP TRAINING</text>
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ff6b35">Gallery Image 6</text>
+</svg>

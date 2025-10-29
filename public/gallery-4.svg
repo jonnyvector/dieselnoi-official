@@ -1,0 +1,9 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#4a4a4a"/>
+  <rect x="0" y="300" width="400" height="100" fill="#1a1a1a"/>
+  <ellipse cx="200" cy="180" rx="60" ry="80" fill="#d4a574"/>
+  <rect x="170" y="250" width="60" height="50" fill="#ffd700"/>
+  <polygon points="180,100 220,100 210,130 190,130" fill="#8b4513"/>
+  <text x="200" y="320" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">HISTORIC FIGHT</text>
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#ff6b35">Gallery Image 4</text>
+</svg>
